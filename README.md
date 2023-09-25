@@ -1,7 +1,7 @@
 # PowerBI-Employee-Absenteeism-Analysis
 The purpose of this project is to apply practical knowledge, demonstrate skill in investigating data, problem solving, and provide actionable insights. So, in this assignment, I purposefully applied these skills and exhibited my ability to use data to make decisions.
 
-Full documentation and project's walktrough : [Click here](https://muhammadfakhrurradhi.notion.site/Employee-Absenteeism-Analysis-39892886dc17401383970eec094de923?pvs=4)
+Full documentation and project's walk-trough : [Click here](https://muhammadfakhrurradhi.notion.site/Employee-Absenteeism-Analysis-39892886dc17401383970eec094de923?pvs=4)
 
 ### About dataset
 
