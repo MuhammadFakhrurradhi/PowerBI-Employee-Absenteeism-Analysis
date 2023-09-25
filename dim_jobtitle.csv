@@ -1,0 +1,48 @@
+jobtitle_id,JobTitle,DepartmentName,Division,BusinessUnit
+jbt1,Accounting Clerk,Accounting,Finance & Accounting,Head Office
+jbt2,Accounts Payable Clerk,Accounts Payable,Finance & Accounting,Head Office
+jbt3,Accounts Receiveable Clerk,Accounts Receiveable,Finance & Accounting,Head Office
+jbt4,Auditor,Audit,Finance & Accounting,Head Office
+jbt5,Baker,Bakery,Stores,Stores
+jbt6,Bakery Manager,Bakery,Stores,Stores
+jbt7,Benefits Admin,Employee Records,Human Resources,Head Office
+jbt8,Cashier,Customer Service,Stores,Stores
+jbt9,CEO,Executive,Executive,Head Office
+jbt10,CHief Information Officer,Executive,Executive,Head Office
+jbt11,Compensation Analyst,Compensation,Human Resources,Head Office
+jbt12,Corporate Lawyer,Legal,Legal,Head Office
+jbt13,Customer Service Manager,Customer Service,Stores,Stores
+jbt14,Dairy Manager,Dairy,Stores,Stores
+jbt15,Dairy Person,Dairy,Stores,Stores
+jbt16,"Director, Accounting",Accounting,Finance & Accounting,Head Office
+jbt17,"Director, Accounts Payable",Accounts Payable,Finance & Accounting,Head Office
+jbt18,"Director, Accounts Receivable",Accounts Receiveable,Finance & Accounting,Head Office
+jbt19,"Director, Audit",Audit,Finance & Accounting,Head Office
+jbt20,"Director, Compensation",Compensation,Human Resources,Head Office
+jbt21,"Director, Employee Records",Employee Records,Human Resources,Head Office
+jbt22,"Director, HR Technology",HR Technology,Human Resources,Head Office
+jbt23,"Director, Investments",Investment,Finance & Accounting,Head Office
+jbt24,"Director, Labor Relations",Labor Relations,Human Resources,Head Office
+jbt25,"Director, Recruitment",Recruitment,Human Resources,Head Office
+jbt26,"Director, Training",Training,Human Resources,Head Office
+jbt27,"Exec Assistant, Finance",Executive,Executive,Head Office
+jbt28,"Exec Assistant, Human Resources",Executive,Executive,Head Office
+jbt29,"Exec Assistant, Legal Counsel",Executive,Executive,Head Office
+jbt30,"Exec Assistant, VP Stores",Executive,Executive,Head Office
+jbt31,HRIS Analyst,HR Technology,Human Resources,Head Office
+jbt32,Investment Analyst,Investment,Finance & Accounting,Head Office
+jbt33,Labor Relations Analyst,Labor Relations,Human Resources,Head Office
+jbt34,Legal Counsel,Executive,Executive,Head Office
+jbt35,Meat Cutter,Meats,Stores,Stores
+jbt36,Meats Manager,Meats,Stores,Stores
+jbt37,Processed Foods Manager,Processed Foods,Stores,Stores
+jbt38,Produce Clerk,Produce,Stores,Stores
+jbt39,Produce Manager,Produce,Stores,Stores
+jbt40,Recruiter,Recruitment,Human Resources,Head Office
+jbt41,Shelf Stocker,Processed Foods,Stores,Stores
+jbt42,Store Manager,Store Management,Stores,Stores
+jbt43,Systems Analyst,Information Technology,InfoTech,Head Office
+jbt44,Trainer,Training,Human Resources,Head Office
+jbt45,VP Finance,Executive,Executive,Head Office
+jbt46,VP Human Resources,Executive,Executive,Head Office
+jbt47,VP Stores,Executive,Executive,Head Office

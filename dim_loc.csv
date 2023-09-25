@@ -1,0 +1,256 @@
+location_id,city,store_location
+loc1,Abbotsford,Abbotsford
+loc2,Abbotsford,Vancouver
+loc3,Agassiz,Chilliwack
+loc4,Aiyansh,Terrace
+loc5,Aldergrove,Aldergrove
+loc6,Aldergrove,Vancouver
+loc7,Alexis Creek,Williams Lake
+loc8,Alkali Lake,Williams Lake
+loc9,Armstrong,Vernon
+loc10,Ashcroft,Kamloops
+loc11,Atlin,Terrace
+loc12,Avola,Kamloops
+loc13,Balfour,Nelson
+loc14,Bamfield,Victoria
+loc15,Barriere,Kamloops
+loc16,Bear Lake,Prince George
+loc17,Beaver Valley,Williams Lake
+loc18,Bella Bella,Bella Bella
+loc19,Black Point,Vernon
+loc20,Black Pool,Dawson Creek
+loc21,Blue River,Blue River
+loc22,Blueberry,Kamloops
+loc23,Bob Quinn Lake,Terrace
+loc24,Boston Bar,Chilliwack
+loc25,Bouchie Lake,Quesnel
+loc26,Bougie Creek,Quesnel
+loc27,Bowen Island,Vancouver
+loc28,Brackendale,Squamish
+loc29,Bridge Lake,Kamloops
+loc30,Britannia Beach,Squamish
+loc31,Burnaby,Burnaby
+loc32,Burnaby,Vancouver
+loc33,Burns Lake,Prince George
+loc34,Cache Creek,Kamloops
+loc35,Campbell River,Nanaimo
+loc36,Canal Flats,Cranbrook
+loc37,Cassiar,Terrace
+loc38,Castlegar,Trail
+loc39,Celista,Kamloops
+loc40,Chase,Kamloops
+loc41,Chemainus,Victoria
+loc42,Chetwynd,Prince George
+loc43,Chief Lake,Prince George
+loc44,Chilako River,Prince George
+loc45,Chilanko Forks,Williams Lake
+loc46,Chilliwack,Chilliwack
+loc47,Chilliwack,Vancouver
+loc48,Christina Lake,Grand Forks
+loc49,Clearwater,Kamloops
+loc50,Clinton,Kamloops
+loc51,Cluculz Lake,Prince George
+loc52,Cobble Hill,Victoria
+loc53,Comox,Nanaimo
+loc54,Coquitlam,Nanaimo
+loc55,Cortes Island,Cortes Island
+loc56,Courtenay,Nanaimo
+loc57,Cranbrook,Cranbrook
+loc58,Crawford Bay,Cranbrook
+loc59,Creston,Cranbrook
+loc60,Cumberland,Victoria
+loc61,D'arcy,Squamish
+loc62,Dawson Creek,Dawson Creek
+loc63,Dease Lake,Dease Lake
+loc64,Decker Lake,Prince George
+loc65,Douglas Lake,Kamloops
+loc66,Dragon Lake,Quesnel
+loc67,Duncan,Quesnel
+loc68,Elkford,Cranbrook
+loc69,Elko,Cranbrook
+loc70,Enderby,Vernon
+loc71,Fairmont Hot Springs,Cranbrook
+loc72,Fauquier,Trail
+loc73,Fernie,Cranbrook
+loc74,Field,Cranbrook
+loc75,Flatrock,Fort St John
+loc76,Forest Grove,Kamloops
+loc77,Fort Fraser,Prince George
+loc78,Fort Langley,Langley
+loc79,Fort Nelson,Fort Nelson
+loc80,Fort St James,Prince George
+loc81,Fort St John,Fort St John
+loc82,Francois Lake,Prince George
+loc83,Fraser Lake,Prince George
+loc84,Fruitvale,Kelowna
+loc85,Fulford Harbour,Victoria
+loc86,Gabriola Island,Vancouver
+loc87,Ganges,Victoria
+loc88,Genelle,Trail
+loc89,Gibsons,West Vancouver
+loc90,Giscome,Prince George
+loc91,Gold Bridge,Kamloops
+loc92,Golden,Cranbrook
+loc93,Good Hope Lake,Terrace
+loc94,Grand Forks,Grand Forks
+loc95,Granisle,Terrace
+loc96,Grasmere,Cranbrook
+loc97,Grassy Plains,Prince George
+loc98,Greenwood,Grand Forks
+loc99,Haney,Haney
+loc100,Hansard,Prince George
+loc101,Hazelton,Terrace
+loc102,Hedley,Princeton
+loc103,Hemlock Valley,Chilliwack
+loc104,Hixon,Prince George
+loc105,Hope,Chilliwack
+loc106,Horsefly,Prince George
+loc107,Houston,Terrace
+loc108,Huntingdon,Abbotsford
+loc109,Invermere,Cranbrook
+loc110,Iskut,Terrace
+loc111,Jaffray,Cranbrook
+loc112,Kamloops,Kamloops
+loc113,Kaslo,Cranbrook
+loc114,Kelowna,Kelowna
+loc115,Keremeos,Kelowna
+loc116,Kimberley,Cranbrook
+loc117,Kitimat,Terrace
+loc118,Kitwanga,Terrace
+loc119,Klemtu,Bella Bella
+loc120,Lac La Hache,Williams Lake
+loc121,Ladysmith,Victoria
+loc122,Lake Cowichan,Victoria
+loc123,Lakelse Lake,Terrace
+loc124,Lakeview Heights,Kelowna
+loc125,Langley,Langley
+loc126,Langley,Vancouver
+loc127,Likely,Quesnel
+loc128,Lillooet,Kamloops
+loc129,Little Fort,Kamloops
+loc130,Logan Lake,Kamloops
+loc131,Lower Post,Fort St John
+loc132,Lumby,Vernon
+loc133,Lytton,Kamloops
+loc134,Mackenzie,Prince George
+loc135,Manning Park,Chilliwack
+loc136,Mayne Island,Victoria
+loc137,Mcbride,Prince George
+loc138,Mcleese Lake,Williams Lake
+loc139,Merritt,Kamloops
+loc140,Mica Creek,Kelowna
+loc141,Midway,Trail
+loc142,Mission,Burnaby
+loc143,Montney,Fort St John
+loc144,Muncho Lake,Fort St John
+loc145,Nakusp,Nelson
+loc146,Nanaimo,Nanaimo
+loc147,Nelson,Nelson
+loc148,New Westminster,New Westminster
+loc149,New Westminster,Vancouver
+loc150,Nimpo Lake,Williams Lake
+loc151,North Pender Island,Victoria
+loc152,North Vancouver,North Vancouver
+loc153,North Vancouver,Vancouver
+loc154,Ocean Falls,Ocean Falls
+loc155,Okanagan Falls,Bella Bella
+loc156,Okanagan Mission,Kelowna
+loc157,Oliver,Kelowna
+loc158,Osoyoos,Kelowna
+loc159,Oyama,Kelowna
+loc160,Oyster River,Nanaimo
+loc161,Parksville,Nanaimo
+loc162,Parson,Cranbrook
+loc163,Peachland,Kelowna
+loc164,Pemberton,Squamish
+loc165,Pender Harbour,Victoria
+loc166,Penticton,Kelowna
+loc167,Pitt Meadows,Pitt Meadows
+loc168,Port Alberni,Nanaimo
+loc169,Port Alice,Nanaimo
+loc170,Port Coquitlam,Port Coquitlam
+loc171,Port Coquitlam,Vancouver
+loc172,Port Edward,Terrace
+loc173,Port Hardy,Nanaimo
+loc174,Port Mcneill,Nanaimo
+loc175,Port Mellon,West Vancouver
+loc176,Port Renfrew,Victoria
+loc177,Pouce Coupe,Fort St John
+loc178,Powell River,Nanaimo
+loc179,Prince George,Prince George
+loc180,Princeton,Princeton
+loc181,Pritchard,Kelowna
+loc182,Quadra Island,Victoria
+loc183,Qualicum Beach,Nanaimo
+loc184,Quesnel,Quesnel
+loc185,Radium Hot Springs,Cranbrook
+loc186,Revelstoke,Kelowna
+loc187,Richmond,Richmond
+loc188,Richmond,Vancouver
+loc189,Riske Creek,Williams Lake
+loc190,Rock Creek,Kelowna
+loc191,Rosedale,Chilliwack
+loc192,Rossland,Trail
+loc193,Rutland,Kelowna
+loc194,Salmo,Cranbrook
+loc195,Salmon Arm,Kamloops
+loc196,Salmon Valley,Prince George
+loc197,Sandspit,Victoria
+loc198,Sardis,Chilliwack
+loc199,Sayward,Nanaimo
+loc200,Sechelt,West Vancouver
+loc201,Seton Portage,Kamloops
+loc202,Sicamous,Kelowna
+loc203,Sidney,Victoria
+loc204,Skookumchuck,Nanaimo
+loc205,Slocan,Trail
+loc206,Smithers,Terrace
+loc207,Sooke,Victoria
+loc208,Sorrento,Kamloops
+loc209,South Slocan,Trail
+loc210,Sparwood,Cranbrook
+loc211,Spences Bridge,Kamloops
+loc212,Spillimacheen,Kelowna
+loc213,Squamish,Squamish
+loc214,Summerland,Kelowna
+loc215,Surrey,Surrey
+loc216,Surrey,Vancouver
+loc217,Tappen,Vernon
+loc218,Tatla Lake,Williams Lake
+loc219,Taylor,Fort St John
+loc220,Telegraph Creek,Terrace
+loc221,Terrace,Terrace
+loc222,Toad River,Fort Nelson
+loc223,Tofino,Nanaimo
+loc224,Topley,Prince George
+loc225,Trail,Trail
+loc226,Tumbler Ridge,Fort St John
+loc227,Ucluelet,Nanaimo
+loc228,Union Bay,Nanaimo
+loc229,Valemount,Valemount
+loc230,Vallican,Trail
+loc231,Vananda,Nanaimo
+loc232,Vancouver,Vancouver
+loc233,Vanderhoof,Prince George
+loc234,Vavenby,Kamloops
+loc235,Vernon,Vernon
+loc236,Victoria,Victoria
+loc237,Victoria,Vancouver
+loc238,Wells,Kamloops
+loc239,West Vancouver,West Vancouver
+loc240,West Vancouver,Vancouver
+loc241,Westbank,Kelowna
+loc242,Westwold,Vernon
+loc243,Whistler,Squamish
+loc244,White Rock,White Rock
+loc245,White Rock,Vancouver
+loc246,Wildwood,Nanaimo
+loc247,Williams Lake,Williams Lake
+loc248,Willow Point,Trail
+loc249,Winfield,Kelowna
+loc250,Woss,Cranbrook
+loc251,Wynndel,Cranbrook
+loc252,Yahk,Cranbrook
+loc253,Yale,Chilliwack
+loc254,Yarrow,Chilliwack
+loc255,Youbou,Victoria
