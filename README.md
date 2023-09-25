@@ -1,6 +1,8 @@
 # PowerBI-Employee-Absenteeism-Analysis
 The purpose of this project is to apply practical knowledge, demonstrate skill in investigating data, problem solving, and provide actionable insights. So, in this assignment, I purposefully applied these skills and exhibited my ability to use data to make decisions.
 
+Full documentation and project's walktrough : [Click here](https://muhammadfakhrurradhi.notion.site/Employee-Absenteeism-Analysis-39892886dc17401383970eec094de923?pvs=4)
+
 ### About dataset
 
 The dataset is fictitious absenteeism data. Absenteeism is a significant cost to most businesses. The dataset's objective is to be studied with People Analytics. There are 8336 observations in 13 variables in the file. Employee_number, surname, given_name, gender, city, job_title, department_name, store_location, division, age, length_service, absent_hours, business_unit are included in the dataset . You may find the dataset’s source at following link : [dataset source](https://www.kaggle.com/datasets/HRAnalyticRepository/absenteeism-dataset)
